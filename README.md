@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/pranto-bapary/article-preview-component)
-- Live Site URL: [Add live site URL here](https://pranto-bapary.github.io/article-preview-component)
+- Live Site URL: [Github Pages](https://pranto-bapary.github.io/article-preview-component)
 
 ### Built with
 
